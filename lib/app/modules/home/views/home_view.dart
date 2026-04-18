@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../controllers/home_controller.dart';
-import '../../../routes/app_pages.dart';
+import 'package:tugas_pertemuan_3/app/modules/home/controllers/home_controller.dart';
+import 'package:tugas_pertemuan_3/app/routes/app_pages.dart';
 
 class HomeView extends GetView<HomeController> {
   const HomeView({Key? key}) : super(key: key);
