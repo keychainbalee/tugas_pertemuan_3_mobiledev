@@ -10,4 +10,4 @@ class ProfileController extends GetxController {
   
   // Mengambil gambar profil dari GitHub
   final String imageUrl = 'https://media.licdn.com/dms/image/v2/D5603AQFKNEw0kMktUA/profile-displayphoto-scale_400_400/B56Zub890sKYAk-/0/1767848009930?e=1778112000&v=beta&t=UjHKzHQbS3wfhPk8KME4FTMeilCy65cJpHu1dozk6Hw';
-}
+  }
